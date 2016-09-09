@@ -99,14 +99,14 @@ body {
  #Layer115copy2_0
 {
      left: 41px;
-     top: 1630px;
+     top: 1642px;
      position: absolute;
      width: 557px;
      height: 822px;
      z-index:9;
 }
 
- #605CallForOffer
+ #six05CallForOffer
 {
      left: 194px;
      top: 2104px;
@@ -169,7 +169,7 @@ body {
  #Layer115copy2_1
 {
      left: 41px;
-     top: 2472px;
+     top: 2495px;
      position: absolute;
      width: 557px;
      height: 822px;
@@ -284,6 +284,7 @@ body {
      width: 378px;
      height: 86px;
      z-index:27;
+     border-spacing: 1px;
 }
 
  #Shape1copy
@@ -444,6 +445,8 @@ body {
      width: 30px;
      height: 32px;
      z-index:43;
+     -webkit-filter: invert(100%);
+     filter: invert(100%);
 }
 
  #hamburgercopy
@@ -586,7 +589,7 @@ body {
      z-index:57;
 }
 
- #605CalltoReserve
+ #six05CalltoReserve
 {
      left: 194px;
      top: 1282px;
