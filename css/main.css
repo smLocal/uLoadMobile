@@ -284,7 +284,8 @@
      width: 378px;
      height: 86px;
      z-index:27;
-     border-spacing: 1px;
+     /*border-style: solid;*/
+     border: 1px solid rgba(0, 0, 0, .5);
 }
 
  #Shape1copy
@@ -572,6 +573,10 @@
 a
 {display:inline-block;margin-right:10px;
 }
+/* .icons
+{
+  height: 55px;
+}*/
  #eight88ULOADUS
 {
      left: 225px;
