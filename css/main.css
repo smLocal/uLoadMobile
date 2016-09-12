@@ -1,4 +1,4 @@
-body {
+ƒbody {
     margin: 0;
     padding: 0;
  }
@@ -99,14 +99,14 @@ body {
  #Layer115copy2_0
 {
      left: 41px;
-     top: 1630px;
+     top: 1642px;
      position: absolute;
      width: 557px;
      height: 822px;
      z-index:9;
 }
 
- #605CallForOffer
+ #six05CallForOffer
 {
      left: 194px;
      top: 2104px;
@@ -169,7 +169,7 @@ body {
  #Layer115copy2_1
 {
      left: 41px;
-     top: 2472px;
+     top: 2495px;
      position: absolute;
      width: 557px;
      height: 822px;
@@ -284,6 +284,8 @@ body {
      width: 378px;
      height: 86px;
      z-index:27;
+     /*border-style: solid;*/
+     border: 1px solid rgba(0, 0, 0, .5);
 }
 
  #Shape1copy
@@ -444,6 +446,8 @@ body {
      width: 30px;
      height: 32px;
      z-index:43;
+     -webkit-filter: invert(100%);
+     filter: invert(100%);
 }
 
  #hamburgercopy
@@ -556,7 +560,8 @@ body {
      z-index:54;
 }
 
- #VectorSmartObject_3
+/* #VectorSmartObject_3*/
+ #social-icons
 {
      left: 251px;
      top: 3618px;
@@ -565,8 +570,14 @@ body {
      height: 55px;
      z-index:55;
 }
-
- #888ULOADUS
+a
+{display:inline-block;margin-right:10px;
+}
+/* .icons
+{
+  height: 55px;
+}*/
+ #eight88ULOADUS
 {
      left: 225px;
      top: 3869px;
@@ -586,7 +597,7 @@ body {
      z-index:57;
 }
 
- #605CalltoReserve
+ #six05CalltoReserve
 {
      left: 194px;
      top: 1282px;
