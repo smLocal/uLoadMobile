@@ -562,16 +562,28 @@
 /* #VectorSmartObject_3*/
  #social-icons
 {
-     left: 251px;
+     left: 253px;
      top: 3618px;
      position: absolute;
      width: 135px;
      height: 55px;
      z-index:55;
 }
-a
-{display:inline-block;margin-right:10px;
+
+ #fb
+{
+  -webkit-filter: invert(100%);
 }
+
+ #tw
+{
+  margin-bottom: 3px;
+  margin-left: 11px;
+}
+
+/*a
+{display:inline-block;margin-right:9px;
+}*/
 
  #eight88ULOADUS
 {
